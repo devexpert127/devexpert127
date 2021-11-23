@@ -8,7 +8,7 @@
 </a>
 </p>
 </td></tr>
-<tr><td valign="top" width="100%">
+<!-- <tr><td valign="top" width="100%">
 <p align="center">  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" alt="Solana" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/8526.png" alt="Raydium" height="50" />  
@@ -166,7 +166,7 @@
 
 1. [Halborn](https://halborn.com/)
 1. [Kudelski](https://kudelskisecurity.com/)
-1. Fairypool
+1. Fairypool -->
 
 
 <div align="center">
