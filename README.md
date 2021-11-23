@@ -11,7 +11,6 @@
 <tr><td valign="top" width="100%">
 <p align="center">  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" alt="Solana" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/11387.png" alt="CropperFinance" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/8526.png" alt="Raydium" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png" alt="Serum" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9443.png" alt="StepFinance" height="50" />  
@@ -91,12 +90,6 @@
     </td>
     <td>
       <font size = '4'>
-      <li>
-        <a href = 'https://cropper.finance'>
-          <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/11387.png" height="16" width="16" alt="cropperfinance"> Cropper Finance</a>
-        <a href = 'https://raydium.io/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/8526.png" height="16" width="16" alt="raydium"> Raydium</a>
-        <a href = 'https://dex.raydium.io/#/market/ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png" height="16" width="16" alt="serum"> Serum</a>
-      </li>
       <li>
         <a href = 'https://saber.so/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/11181.png" height="16" width="16" alt="saber">Saber</a>
         <a href = 'https://mercurial.finance/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/9549.png" height="16" width="16" alt="Mecurial Finance"> Mecurial Finance</a>
