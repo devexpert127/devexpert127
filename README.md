@@ -1,4 +1,4 @@
-# Dev Expert in Solana and Rust
+# Dev Expert in Solana and Ethereum
 
 <table>
 <tr><td>
