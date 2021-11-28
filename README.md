@@ -108,7 +108,7 @@
     </td>
   </tr>
 <table>
-
+-->
 ## General Idea about blockchain
 - [Learning Path](https://github.com/protofire/blockchain-learning-path)
 - [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain)
@@ -151,7 +151,7 @@
 ## Solana explorer
 - [Solsan](https://solscan.io/token/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE)
 - [Solana Explorer](https://explorer.solana.com/address/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE)
- -->
+ 
 ## `RPC` servers
 - [Project Serum](https://solana-api.projectserum.com (**recommended**))
 - [Figment-Solana](https://docs.figment.io/network-documentation/solana/rpc-and-rest-api)
