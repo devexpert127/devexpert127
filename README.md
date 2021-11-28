@@ -1,13 +1,6 @@
 # Dev Expert in Solana and Ethereum
 
 <table>
-<tr><td>
-<p align="center">  
-<a href = "https://github.com/devexpert127?tab=repositories">
-<!-- <img src = 'https://github.com/devexpert127/IT-Prince/blob/main/assets/banner.jpeg'> -->
-</a>
-</p>
-</td></tr>
 <!-- <tr><td valign="top" width="100%">
 <p align="center">  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" alt="Solana" height="50" />  
@@ -101,15 +94,10 @@
       <font size = '4'>
       <li>
         <a href = 'https://app.step.finance/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/9443.png" height="16" width="16" alt="step-finance"> Step Finance</a>
-        <a href = 'https://tulip.garden/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" height="16" width="16" alt="tulip-finance"> Tulip</a>
         <a href = 'https://app.sunny.ag/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" height="16" width="16" alt="sunny-finance"> Sunny</a>
-      </li>
-      <li>
         <a href = 'https://saber.so/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/11181.png" height="16" width="16" alt="saber">Saber</a>
         <a href = 'https://mercurial.finance/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/9549.png" height="16" width="16" alt="Mecurial Finance"> Mecurial Finance</a>
         <a href = 'https://www.orca.so/pools/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/11165.png" height="16" width="16" alt="Orca"> Orca</a>
-      </li>
-      <li>
         <a href = 'https://allbridge.io/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/12212.png" height="16" width="16" alt="AllBridge"> AllBridge</a>
         <a href = 'https://wormholebridge.com/#/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/7633.png" height="16" width="16" alt="Wormhole Bridge"> Wormhole</a>
       </li>
