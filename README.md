@@ -48,6 +48,7 @@
  
 </p>
 </td></tr></table>
+-->
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
@@ -108,20 +109,23 @@
     </td>
   </tr>
 <table>
--->
+
 ## General Idea about blockchain
 - [Learning Path](https://github.com/protofire/blockchain-learning-path)
 - [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain)
-## Tutorials for Solana blockchain devleopers
+
+## Tutorials for Solana blockchain developers
 - [Solana Tool Suite](https://docs.solana.com/cli/install-solana-cli-tools)
 - [Solana Doc](https://docs.solana.com/)
 - [Solanium](https://solanium.io/)
 - [NFT](https://solanart.io/)
+
 ## Solana framework
 - [SPL doc](https://spl.solana.com/)
 - [Solana Program Library](https://github.com/solana-labs/solana-program-library)
 - [Anchor Framework](https://github.com/project-serum/anchor)
 - [Tokio](https://tokio.rs/)
+
 ## Basic examples
 - [Oyster Swap UI](https://github.com/solana-labs/oyster-swap)
 - [SPL Token Wallet](https://github.com/project-serum/spl-token-wallet)
@@ -139,34 +143,22 @@
 
 ## Advanced examples
 - [Raydium ](https://github.com/raydium-io/raydium-ui)
-- [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/): Building the escrow program
+- [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/):
 - [A Vesting Contract for the Solana Blockchain](https://github.com/Bonfida/token-vesting)
 - [Staking](https://github.com/step-finance/step-staking) (Use `Anchor`)
-- [Permissioned Markets](https://github.com/project-serum/permissioned-markets-quickstart) (Use `Serum`)
 - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
-- [Solana File Upload](https://github.com/mcf-rocks/solana-upload)
 - [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
 - [Messaging App](https://github.com/kemargrant/soltalk)
+- [Solana NFT] (https://github.com/metaplex-foundation/metaplex)
 
 ## Solana explorer
-- [Solsan](https://solscan.io/token/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE)
+- [Solscan](https://solscan.io/token/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE)
 - [Solana Explorer](https://explorer.solana.com/address/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE)
- 
-## `RPC` servers
-- [Project Serum](https://solana-api.projectserum.com (**recommended**))
-- [Figment-Solana](https://docs.figment.io/network-documentation/solana/rpc-and-rest-api)
-- [Solana](https://api.mainnet-beta.solana.com (**can be unstable**))
-- [GenesysGo](https://genesysgo.com/)
-- [RunNode](https://runnode.com/)
-- [Triton RPC Pool](https://rpcpool.com/)
-- [Blockdaemon](https://blockdaemon.com/marketplace/solana/)
-- [Syndica](https://syndica.io/)
 
 ## Cyber Security teams for audit
 
 1. [Halborn](https://halborn.com/)
 1. [Kudelski](https://kudelskisecurity.com/)
-1. Fairypool
 
 
 <div align="center">
