@@ -51,12 +51,12 @@
 -->
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism"/>
 </p>
 <table align = 'center' height = "180" width='100%' border-size = '0px'>
   <tr>
-    <th>Network</th> 
-    <th>Experienced fields</th>
+    <th>Coins</th> 
+    <th>Fields</th>
     <th>Solana DeFis</th>
   </tr>
   <tr>
@@ -72,11 +72,19 @@
         </a><br>
         <a href = 'https://coinmarketcap.com/currencies/bitcoin/'>
           <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" height="16" width="16" alt="BTC"> 
-          Binance Smart Chain
+          Bitcoin
         </a><br>
-        <a href = 'https://coinmarketcap.com/currencies/tron/'>
-          <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png" height="16" width="16" alt="TRON"> 
-          Tron
+        <a href = 'https://coinmarketcap.com/currencies/cardano/'>
+          <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png" height="16" width="16" alt="Cardano"> 
+          Cardano
+        </a><br>
+        <a href = 'https://coinmarketcap.com/currencies/dogecoin/'>
+          <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/74.png" height="16" width="16" alt="Dogecoin"> 
+          Dogecoin
+        </a><br>
+        <a href = 'https://coinmarketcap.com/currencies/polkadot-new/'>
+          <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png" height="16" width="16" alt="Polkadot"> 
+          Polkadot
         </a><br>
       </font>
     </td> 
@@ -92,6 +100,11 @@
     <td>
       <font size = '4'>
       <li>
+        <a href = 'https://app.step.finance/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/9443.png" height="16" width="16" alt="step-finance"> Step Finance</a>
+        <a href = 'https://tulip.garden/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" height="16" width="16" alt="tulip-finance"> Tulip</a>
+        <a href = 'https://app.sunny.ag/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" height="16" width="16" alt="sunny-finance"> Sunny</a>
+      </li>
+      <li>
         <a href = 'https://saber.so/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/11181.png" height="16" width="16" alt="saber">Saber</a>
         <a href = 'https://mercurial.finance/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/9549.png" height="16" width="16" alt="Mecurial Finance"> Mecurial Finance</a>
         <a href = 'https://www.orca.so/pools/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/11165.png" height="16" width="16" alt="Orca"> Orca</a>
@@ -99,11 +112,6 @@
       <li>
         <a href = 'https://allbridge.io/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/12212.png" height="16" width="16" alt="AllBridge"> AllBridge</a>
         <a href = 'https://wormholebridge.com/#/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/7633.png" height="16" width="16" alt="Wormhole Bridge"> Wormhole</a>
-      </li>
-      <li>
-        <a href = 'https://app.step.finance/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/9443.png" height="16" width="16" alt="step-finance"> Step Finance</a>
-        <a href = 'https://tulip.garden/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" height="16" width="16" alt="tulip-finance"> Tulip</a>
-        <a href = 'https://app.sunny.ag/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" height="16" width="16" alt="sunny-finance"> Sunny</a>
       </li>
       </font>
     </td>
@@ -136,20 +144,15 @@
 - [Program examples written in Rust](https://github.com/solana-labs/solana-program-library/tree/master/examples/rust)
 - [Interface for creating and managing SPL Tokens](https://www.spl-token-ui.com/#/)
 
-## Video examples
-- [Building SmartContracts With #Solana and #Rust](https://www.youtube.com/watch?v=gA7hFdq2h9Q)
-- [Solana Programming: Connect to Wallet, Send Money, Query Transaction History](https://www.youtube.com/watch?v=wVPGJ_CZTAw)
-- [Build Dapps with Solana and Arweave](https://www.youtube.com/watch?v=Jz5v_u75xk8)
-
 ## Advanced examples
 - [Raydium ](https://github.com/raydium-io/raydium-ui)
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/):
 - [A Vesting Contract for the Solana Blockchain](https://github.com/Bonfida/token-vesting)
-- [Staking](https://github.com/step-finance/step-staking) (Use `Anchor`)
-- [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
+- [Staking](https://github.com/step-finance/step-staking)
+- [Solana NFT](https://github.com/metaplex-foundation/metaplex)
+- [Staking and rewards](https://github.com/step-finance/reward-pool)
 - [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
 - [Messaging App](https://github.com/kemargrant/soltalk)
-- [Solana NFT] (https://github.com/metaplex-foundation/metaplex)
 
 ## Solana explorer
 - [Solscan](https://solscan.io/token/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE)
